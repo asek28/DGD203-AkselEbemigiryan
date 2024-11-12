@@ -1,0 +1,14 @@
+C:\Users\aksel\source\repos\Car_Class\bin\Debug\net8.0\Car_Class.exe
+C:\Users\aksel\source\repos\Car_Class\bin\Debug\net8.0\Car_Class.deps.json
+C:\Users\aksel\source\repos\Car_Class\bin\Debug\net8.0\Car_Class.runtimeconfig.json
+C:\Users\aksel\source\repos\Car_Class\bin\Debug\net8.0\Car_Class.dll
+C:\Users\aksel\source\repos\Car_Class\bin\Debug\net8.0\Car_Class.pdb
+C:\Users\aksel\source\repos\Car_Class\obj\Debug\net8.0\Car_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aksel\source\repos\Car_Class\obj\Debug\net8.0\Car_Class.AssemblyInfoInputs.cache
+C:\Users\aksel\source\repos\Car_Class\obj\Debug\net8.0\Car_Class.AssemblyInfo.cs
+C:\Users\aksel\source\repos\Car_Class\obj\Debug\net8.0\Car_Class.csproj.CoreCompileInputs.cache
+C:\Users\aksel\source\repos\Car_Class\obj\Debug\net8.0\Car_Class.dll
+C:\Users\aksel\source\repos\Car_Class\obj\Debug\net8.0\refint\Car_Class.dll
+C:\Users\aksel\source\repos\Car_Class\obj\Debug\net8.0\Car_Class.pdb
+C:\Users\aksel\source\repos\Car_Class\obj\Debug\net8.0\Car_Class.genruntimeconfig.cache
+C:\Users\aksel\source\repos\Car_Class\obj\Debug\net8.0\ref\Car_Class.dll
