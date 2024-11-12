@@ -13,8 +13,8 @@ namespace Car_Class
         public float Fuel { get; set; }
         public float FuelConsumpiton { get; set; }
         public float FuelPrice { get; set; }
-        public float DistanceTraveled { get; set; }
-        public float MoneySpent { get; set; }
+
+      
 
         public Vehicle(float fuel, float fuelConsumption)
         {
